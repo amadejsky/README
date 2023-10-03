@@ -7,10 +7,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadejsky&show_icons=true&locale=en&layout=compact" alt="amadejsky" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amadejsky&show_icons=true&locale=en" alt="amadejsky" /></p>
 <hr>
-
-BLOG-POST-LIST:START
-
+<b>My medium articles:</b>
+<br>
 <a href="https://medium.com/@adrian.madejski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adrian.madejski" height="30" width="40" /></a>
 
-
-BLOG-POST-LIST:END
