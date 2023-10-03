@@ -9,8 +9,8 @@
 <hr>
 
 BLOG-POST-LIST:START
-<p align="left">
+
 <a href="https://medium.com/@adrian.madejski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adrian.madejski" height="30" width="40" /></a>
-</p>
+
 
 BLOG-POST-LIST:END
