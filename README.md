@@ -8,10 +8,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amadejsky&show_icons=true&locale=en" alt="amadejsky" /></p>
 <br>
 <hr>
-<br>My lates posts:
+<br>My latest posts:
 <br>
 <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0" alt="Recent Article 0"> 
 <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1" alt="Recent Article 1"> 
 
 
