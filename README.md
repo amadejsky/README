@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    //<title>Document</title>
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Adrian</h1>
@@ -17,7 +16,6 @@
 <br>
 <hr>
 <br><b>My latest Medium articles:</b>
-<br>
 <div class="gridWrap">
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0" width="420" height="100" alt="Recent Article 0"> 
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1" width="420" height="100" alt="Recent Article 1"> 
