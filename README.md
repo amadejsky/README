@@ -11,7 +11,7 @@
 <br>My latest posts:
 <br>
 <br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0" width="100" height="40" alt="Recent Article 0"> 
 <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1" alt="Recent Article 1"> 
 
