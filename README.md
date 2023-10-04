@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    //<title>Document</title>
+</head>
+<body>
+    <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A database dev, computer science student and tech entusiast</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,3 +25,7 @@
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2" width="420" height="100" alt="Recent Article 2"> 
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3" width="420" height="100" alt="Recent Article 3"> 
 </div>
+
+    
+</body>
+</html>
