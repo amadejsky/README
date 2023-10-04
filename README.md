@@ -8,7 +8,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amadejsky&show_icons=true&locale=en" alt="amadejsky" /></p>
 <br>
 <hr>
-<br><b>My latest posts:</b>
+<br><b>My latest Medium articles:</b>
 <br>
 <br>
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0" width="420" height="100" alt="Recent Article 0"> 
