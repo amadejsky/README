@@ -11,9 +11,9 @@
 <br>My latest posts:
 <br>
 <br>
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0" width="430" height="100" alt="Recent Article 0"> 
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1" width="430" height="100" alt="Recent Article 1"> 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0" width="420" height="100" alt="Recent Article 0"> 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1" width="420" height="100" alt="Recent Article 1"> 
 <br>
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2" width="430" height="100" alt="Recent Article 2"> 
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3" width="430" height="100" alt="Recent Article 3"> 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2" width="420" height="100" alt="Recent Article 2"> 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3" width="420" height="100" alt="Recent Article 3"> 
 
