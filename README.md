@@ -14,11 +14,11 @@
  <a href="https://thymeleaf.org/" target="_blank" rel="noreferrer"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="tailwind" width="40" height="40"/> </a></p>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadejsky&show_icons=true&locale=en&layout=compact" alt="amadejsky" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amadejsky&show_icons=true&locale=en" alt="amadejsky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amadejsky&show_icons=true&locale=en" alt="amadejsky" /></p>
 <br>
 <hr>
 <br><b>My latest Medium articles:</b>
-<div class="gridWrap">
+<div class="gridW">
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"  alt="Recent Article 0"> 
 <a align="right" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"  alt="Recent Article 1"> 
 <br>
