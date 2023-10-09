@@ -20,10 +20,10 @@
 <br><b>My latest Medium articles:</b>
 <div class="gridW">
 <a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"  width="400px" alt="Recent Article 0"> 
-<a align="right" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"  alt="Recent Article 1"> 
+<a align="right" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1" width="400px" alt="Recent Article 1"> 
 <br>
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2"  alt="Recent Article 2"> 
-<a align="right" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3"  alt="Recent Article 3"> 
+<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2" width="400px"  alt="Recent Article 2"> 
+<a align="right" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3" width="400px" alt="Recent Article 3"> 
 </div>
 
     
