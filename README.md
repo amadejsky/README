@@ -8,7 +8,10 @@
 <body>
     <h1 align="center">Hi 👋, I'm Adrian</h1>
     <h2>Java/Spring/Thymeleaf/Javascript/PLSQL/CSS |Database Experienced| |Computer Science Student| Seeking for new opportunities</h2>
-<h3 align="center">A database dev, computer science student and tech entusiast</h3>
+<h3 align="center">
+    I'm a young programmer with almost a year of experience, primarily focused on database programming at John Paul II Catholic University of Lublin.
+    I relentlessly pursue solutions and learning new technologies, never stopping until I find answers to the questions I don't yet know.
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
