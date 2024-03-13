@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Adrian</h1>
+    <h2>Java/Spring/Thymeleaf/Javascript/PLSQL/CSS |Database Experienced| |Computer Science Student| Seeking for new opportunities</h2>
 <h3 align="center">A database dev, computer science student and tech entusiast</h3>
 
 <h3 align="left">Languages and Tools:</h3>
