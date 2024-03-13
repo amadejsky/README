@@ -15,21 +15,16 @@
  <a href="https://thymeleaf.org/" target="_blank" rel="noreferrer"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="40" height="40"/> </a>
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="mockito" width="95" height="40"/> </a>
 <br><a href="https://www.oracle.com/application-development/technologies/forms/forms.html" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Zrzut%20ekranu%202023-10-10%20212059.png" alt="Oracle-Forms-Builder" width="42" height="33"/>
-<a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/aop.png" alt="Aspect-Oriented-Programming" width="52" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/aop.png" alt="Aspect-Oriented-Programming" width="50" height="32"/></a>
+<a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Typescript_logo_2020.svg.png" alt="Typescript" width="40" height="40"/></a> 
+<a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="40" height="40"/></a>  
 </p>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadejsky&show_icons=true&locale=en&layout=compact" alt="amadejsky" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amadejsky&show_icons=true&locale=en" alt="amadejsky" /></p>
 <br>
 <hr>
-<br><b>My latest Medium articles:</b>
-<div class="gridW">
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/0"  width="420px" alt="Recent Article 0"> 
-<a align="right" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/1" width="420px" alt="Recent Article 1"> 
-<br>
-<a align="left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/2" width="420px"  alt="Recent Article 2"> 
-<a align="right" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adrian.madejski/3" width="420px" alt="Recent Article 3"> 
-</div>
+
 
     
 </body>
