@@ -9,8 +9,8 @@
     <h1 align="center">Hi 👋, I'm Adrian</h1>
     <h2>Java/Spring/Angular/Thymeleaf/TypeScript/PLSQL |Database Experienced| |Computer Science Student| Seeking for new opportunities</h2>
 <h3 align="center">
-    I'm a young programmer with almost a year of experience, primarily focused on database programming at John Paul II Catholic University of Lublin.
-    I relentlessly pursue solutions and learning new technologies, never stopping until I find answers to the questions I don't yet know.
+   I am a third-year computer science student with almost a year of experience working with databases. Choosing the programming specialization allowed me to have an in-depth understanding of code and technology, and working on various programming projects allowed me to develop analytical and problem-solving skills. My technology stack includes Java, Spring framework along with Hibernate, PL/SQL and JavaScript. I freely use web libraries, mainly Bootstrap. I'm currently learning the Angular framework and typescript. On a daily basis, I freely use the git version control system.
+I am a person who constantly expands my knowledge and seeks answers to questions. This gives me confidence that what I have learned by choosing this specialization and continuous improvement of my skills will contribute to the achievement of the company's goals.
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
