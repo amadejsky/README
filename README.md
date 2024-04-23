@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Adrian</h1>
-    <h2>Java/Spring/Angular/Thymeleaf/TypeScript/PLSQL |Database Experienced| |Computer Science Student| Seeking for new opportunities</h2>
+    <h2>Java/Spring/Thymeleaf/Angular/Firebase/TypeScript/PLSQL |Database Experienced| |Computer Science Student| Seeking for new opportunities</h2>
 <h3 align="center">
    I am a third-year computer science student with almost a year of experience working with databases. Choosing the programming specialization allowed me to have an in-depth understanding of code and technology, and working on various programming projects allowed me to develop analytical and problem-solving skills.
     <br> My technology stack includes Java, Spring framework along with Hibernate, PL/SQL and JavaScript. I freely use web libraries, mainly Bootstrap. I'm currently learning the Angular framework and typescript. On a daily basis, I freely use the git version control system.
@@ -39,16 +39,18 @@
     <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="mockito" width="95" height="40"/> </a>
     <a href="https://www.oracle.com/application-development/technologies/forms/forms.html" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Zrzut%20ekranu%202023-10-10%20212059.png" alt="Oracle-Forms-Builder"             width="42" height="33"/>
     <a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Typescript_logo_2020.svg.png" alt="Typescript" width="40" height="40"/></a> 
-    <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="40" height="40"/></a>  <br>
+    <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="40" height="40"/></a>
+    <a href="https://firebase.google.com/brand-guidelines/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/firebase_logo_shot.png" alt="Firebase" width="40" height="40"/></a>
+    <br>
 </p>
-        <hr>
+    <hr>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadejsky&show_icons=true&locale=en&layout=compact" alt="amadejsky"/>
 </p>
 <p>
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amadejsky&show_icons=true&locale=en" alt="amadejsky"/>
 </p>
-        <br>
+    <br>
 <hr>    
 </body>
 </html>
