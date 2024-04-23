@@ -10,8 +10,8 @@
     <h2>Java/Spring/Thymeleaf/Angular/Firebase/TypeScript/PLSQL |Database Experienced| |Computer Science Student| Seeking for new opportunities</h2>
 <h3 align="center">
    I am a third-year computer science student with almost a year of experience working with databases. Choosing the programming specialization allowed me to have an in-depth understanding of code and technology, and working on various programming projects allowed me to develop analytical and problem-solving skills.
-    <br> My technology stack includes Java, Spring framework along with Hibernate, PL/SQL and JavaScript. I freely use web libraries, mainly Bootstrap. I'm currently learning the Angular framework and typescript. On a daily basis, I freely use the git version control system.
-    <br> I am a person who constantly expands my knowledge and seeks answers to questions. This gives me confidence that what I have learned by choosing this specialization and continuous improvement of my skills will contribute to the achievement of the company's goals.
+ My technology stack includes Angular, TypeScript, Firebase, Java, Spring framework along with Hibernate, PL/SQL and JavaScript. I am proficient in using web libraries, primarily Bootstrap, and I regularly utilize the Git version control system in my daily work.
+I am a person who constantly expands my knowledge and seeks answers to questions. This gives me confidence that what I have learned by choosing this specialization and continuous improvement of my skills will contribute to the achievement of the company's goals.
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
