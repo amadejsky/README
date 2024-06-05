@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Adrian</h1>
-    <h2>Java/Spring/Thymeleaf/Angular/Firebase/TypeScript/PLSQL |Database Experienced| |Computer Science Student| Seeking for new opportunities</h2>
+    <h2>Java/Spring/Thymeleaf/Angular/Firebase/TypeScript/PLSQL |Database Experienced| |🎓Computer Science Student| Seeking for new opportunities</h2>
 <h3 align="center">
    I am a third-year computer science student with almost a year of experience working with databases. Choosing the programming specialization allowed me to have an in-depth understanding of code and technology, and working on various programming projects allowed me to develop analytical and problem-solving skills.
 <br>
