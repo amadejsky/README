@@ -18,8 +18,9 @@ I am a person who constantly expands my knowledge and seeks answers to questions
 <br>
 📫 How to reach me:
 
-E-mail: adrian.madejski@vp.pl
-LinkedIn: https://www.linkedin.com/in/amadejski/
+- E-mail: adrian.madejski@vp.pl
+- LinkedIn: [amadejski](https://www.linkedin.com/in/amadejski/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
