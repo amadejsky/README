@@ -22,7 +22,7 @@ I am a person who constantly expands my knowledge and seeks answers to questions
 - LinkedIn: [amadejski](https://www.linkedin.com/in/amadejski/)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My technology stack:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a>
     <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/darkCLogo.png" alt="Cisco_Packet_Tracer" width="40" height="40"/></a>
