@@ -15,6 +15,11 @@
 <br> I am proficient in using web libraries, primarily Bootstrap, and I regularly utilize the Git version control system in my daily work.
 I am a person who constantly expands my knowledge and seeks answers to questions. This gives me confidence that what I have learned by choosing this specialization and continuous improvement of my skills will contribute to the achievement of the company's goals.
 </h3>
+<br>
+📫 How to reach me:
+
+E-mail: adrian.madejski@vp.pl
+LinkedIn: https://www.linkedin.com/in/amadejski/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
