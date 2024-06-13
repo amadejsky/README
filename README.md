@@ -43,7 +43,7 @@ I am a person who constantly expands my knowledge and seeks answers to questions
     <a href="https://www.oracle.com/application-development/technologies/forms/forms.html" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Zrzut%20ekranu%202023-10-10%20212059.png" alt="Oracle-Forms-Builder"             width="50" height="40"/>
     <a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Typescript_logo_2020.svg.png" alt="Typescript" width="50" height="50"/></a> 
     <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="50" height="50"/></a>
-    <a href="https://firebase.google.com/brand-guidelines/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/firebase_logo_shot.png" alt="Firebase" width="120" height="50"/></a>
+    <a href="https://firebase.google.com/brand-guidelines/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/firebase_logo_shot.png" alt="Firebase" width="130" height="50"/></a>
     <br>
 </p>
     <hr>
