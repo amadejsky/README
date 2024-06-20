@@ -21,7 +21,7 @@ I am a person who constantly expands my knowledge and seeks answers to questions
 - E-mail: adrian.madejski@vp.pl
 - LinkedIn: [amadejski](https://www.linkedin.com/in/amadejski/)
 
-💬 I speak English, Polish and basic German. We also communicate in JavaScript 😄
+💬 I speak English, Polish and basic German. We can also communicate in JavaScript 😄
 
 <h3 align="left">My technology stack:</h3>
 <p align="left">   
