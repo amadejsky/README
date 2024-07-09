@@ -9,12 +9,7 @@
     <h1 align="center">Hi 👋, I'm Adrian</h1>
     <h2>Java/Spring/Thymeleaf/Angular/Firebase/TypeScript/PLSQL |Database Experienced| <br>🎓Computer Science Student Seeking for a new opportunities.</h2>
 <h3 align="center">
- I am a final-year Computer Science student at the John Paul II Catholic University of Lublin, specializing 
-in Programming. With almost a year of experience working with databases, I have developed an in-depth 
-understanding of code and technology. Working on various programming projects has sharpened my 
-analytical and problem-solving skills. I am committed to constantly expanding my knowledge and seeking 
-answers to challenging questions, which I believe will significantly contribute to achieving the company's 
-goals. My academic background provides me with a unique problem-solving approach to development
+    I have recently graduated with a Bachelor's degree in Computer Science from the John Paul II Catholic University of Lublin, specializing in Programming. With almost a year of experience working with databases, I have developed an in-depth understanding of code and technology. My involvement in projects such as Green Energy Around Me, enhancing accessibility to electric vehicle charging stations, and Medical Management System, optimizing healthcare workflow efficiency, has sharpened my analytical and problem-solving skills. I strive to expand my knowledge and solve challenging problems, aiming to contribute significantly to achieving the company's goals.
 </h3>
 <br>
 📫 How to reach me:
