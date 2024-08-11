@@ -40,7 +40,7 @@
     <a href=https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/Typescript_logo_2020.svg.png" alt="Typescript" width="50" height="50"/></a> 
     <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/angular-icon-logo-png-transparent.png" alt="Angular" width="50" height="50"/></a>
     <a href="https://firebase.google.com/brand-guidelines/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/firebase_logo_shot.png" alt="Firebase" width="130" height="50"/></a>
-     <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/swaggerhub-logo-52BE4455D6-seeklogo.com.png" alt="Swagger" width="130" height="50"/></a>
+     <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/swaggerhub-logo-52BE4455D6-seeklogo.com.png" alt="Swagger" width="50" height="50"/></a>
 </p>
     <hr>
 <p>
