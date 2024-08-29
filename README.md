@@ -22,8 +22,8 @@
 <h3 align="left">My technology stack:</h3>
 <p align="left">   
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/IJ.png" alt="intelliJ" width="50" height="50"/> </a> 
-     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
-       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/OG-Spring.png" alt="spring" width="125" height="70"/> </a>
+     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> 
+       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/OG-Spring.png" alt="spring" width="125" height="60"/> </a>
      <a href="https://spring.io/microservices" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/SpringCloud.png" alt="Spring Cloud Microservices" width="60" height="60"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/amadejsky/Resources/blob/main/Images/visual-studio-code-logo.png" alt="Visual Studio Code" width="60" height="60"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
