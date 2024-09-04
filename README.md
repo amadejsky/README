@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Adrian</h1>
-    <h2>Junior Java Developer | Database Experienced | Java, Spring Boot, Hibernate, Spring Cloud, Angular, PLSQL<br>🎓Computer Science Bachelor Seeking for a new opportunities.</h2>
+    <h2>Junior Java Developer | Database Experienced | Java, Spring Boot, Hibernate, Spring Cloud & Microservices, Angular, PLSQL | Bachelor's in Computer Science | Open to new Opportunities</h2>
 <h3 align="center">
     I have recently graduated with a Bachelor's degree in Computer Science from the John Paul II Catholic University of Lublin, specializing in Programming. With almost a year of experience working with databases, I have developed an in-depth understanding of code and technology. My involvement in projects such as Green Energy Around Me, enhancing accessibility to electric vehicle charging stations, and Medical Management System, optimizing healthcare workflow efficiency, has sharpened my analytical and problem-solving skills. I strive to expand my knowledge and solve challenging problems, aiming to contribute significantly to achieving the company's goals.
 </h3>
