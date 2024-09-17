@@ -9,17 +9,9 @@
     <h1 align="center">Hi 👋, I'm Adrian</h1>
     <h2>Junior Java Developer | Database Experienced | Java, Spring Boot, Hibernate, Spring Cloud & Microservices, Angular, PLSQL | Bachelor's in Computer Science | Open to new Opportunities</h2>
 <h3 align="center">
-   I recently graduated with a Bachelor's degree in Computer Science from the John Paul II Catholic 
-University of Lublin, specializing in Programming. With nearly a year of experience working with 
-databases, I have developed a solid understanding of code and technology.
- I’ve worked on several projects, including Green Energy Around Me, where I utilized APIs to improve 
-access to electric vehicle charging stations, and Medical Management System, where I used Java and 
-Spring Boot to enhance healthcare workflows. Most recently, I developed Microservices Parcel Manager, 
-a scalable parcel management system using microservices architecture. This project deepened my 
-knowledge of modular design and advanced my skills in Spring Boot, Spring Cloud, and RabbitMQ.
- I comfortably work with databases like MongoDB and use Git for version control in my daily work. I am 
-eager to continue expanding my knowledge and tackling challenging problems, with the aim of making a 
-significant contribution to achieving the company's goals.
+    I recently graduated with a Bachelor's in Computer Science from the John Paul II Catholic University of Lublin. With nearly a year of database experience, I have a solid grasp of code and technology. I’ve contributed to projects like Green Energy Around Me, where I leveraged APIs to improve EV charging access, and Medical Management System, where I used Java and Spring Boot to streamline healthcare workflows. I also developed Microservices Parcel Manager, a scalable parcel management system, which deepened my knowledge of modular design and enhanced my Spring Boot, Spring Cloud, and RabbitMQ skills. I am proficient with MongoDB and use Git daily for version control.
+Currently, I am working on learning Docker to enhance my skills in containerization and cloud-based development. I am eager to tackle new challenges and make a meaningful impact in achieving company goals.
+I am a person who constantly expands my knowledge and seeks answers to questions. This gives me confidence that what I have learned by choosing this specialization, along with my continuous improvement, will contribute to the success of the company.
 </h3>
 <br>
 📫 How to reach me:
