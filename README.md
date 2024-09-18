@@ -9,9 +9,24 @@
     <h1 align="center">Hi 👋, I'm Adrian</h1>
     <h2>Junior Java Developer | Database Experienced | Java, Spring Boot, Hibernate, Spring Cloud & Microservices, Angular, PLSQL | Bachelor's in Computer Science | Open to new Opportunities</h2>
 <h3 align="center">
-    I recently graduated with a Bachelor's in Computer Science from the John Paul II Catholic University of Lublin. With nearly a year of database experience, I have a solid grasp of code and technology. I’ve contributed to projects like Green Energy Around Me, where I leveraged APIs to improve EV charging access, and Medical Management System, where I used Java and Spring Boot to streamline healthcare workflows. I also developed Microservices Parcel Manager, a scalable parcel management system, which deepened my knowledge of modular design and enhanced my Spring Boot, Spring Cloud, and RabbitMQ skills. I am proficient with MongoDB and use Git daily for version control.
-Currently, I am working on learning Docker to enhance my skills in containerization and cloud-based development. I am eager to tackle new challenges and make a meaningful impact in achieving company goals.
-I am a person who constantly expands my knowledge and seeks answers to questions. This gives me confidence that what I have learned by choosing this specialization, along with my continuous improvement, will contribute to the success of the company.
+  I recently graduated with a Bachelor's in Computer Science from the John Paul II Catholic University 
+of Lublin. With nearly a year of database experience, I have a solid grasp of code and technology. 
+I’ve contributed to projects like Green Energy Around Me, where I used Angular and APIs to 
+improve EV charging access, and Medical Management System, where I used Java and Spring Boot 
+to streamline healthcare workflows. I also developed Microservices Parcel Manager, a scalable 
+parcel management system that deepened my knowledge of modular design and enhanced my 
+Spring Boot, Spring Cloud, and RabbitMQ skills. I am proficient with MongoDB and use Git 
+daily for version control.
+ I have always integrated backend with frontend solutions in my projects and have had exposure to 
+React. Additionally, I frequently use libraries such as Bootstrap, and I have experience working on 
+smaller projects with Angular. One notable project was the Eisenhower Task Manager, which 
+featured Firebase integration for user authentication and Angular routing.
+ Currently, I am working on learning Docker to enhance my skills in containerization and cloud
+based development. I am eager to tackle new challenges and make a meaningful impact in 
+achieving company goals.
+ I am a person who constantly seeks to expand my knowledge and solve complex problems. This 
+gives me confidence that what I have learned through my studies and projects, combined with my 
+dedication to continuous improvement, will contribute to the success of your company.
 </h3>
 <br>
 📫 How to reach me:
