@@ -26,8 +26,8 @@ based development. I am eager to tackle new challenges and make a meaningful imp
 achieving company goals.
  I am a person who constantly seeks to expand my knowledge and solve complex problems.
     <br>
-    <br>This 
-gives me confidence that what I have learned through my studies and projects, combined with my 
+    <br>
+    🔴 This gives me confidence that what I have learned through my studies and projects, combined with my 
 dedication to continuous improvement, will contribute to the success of your company.
 </h3>
 <br>
