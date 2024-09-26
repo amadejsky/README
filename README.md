@@ -7,10 +7,10 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Adrian</h1>
-    <h2>Junior Java Developer | Database Experienced | Java, Spring Boot, Hibernate, Spring Cloud & Microservices, Angular, PLSQL | Bachelor's in Computer Science | Open to new Opportunities</h2>
+    <h2>Junior Java Developer | Almost 1 Year of Experience | Java, Spring Boot, Hibernate, Spring Cloud & Microservices, Angular, PLSQL | Bachelor's in Computer Science | Open to new Opportunities</h2>
 <h3 align="center">
   I recently graduated with a Bachelor's in Computer Science from the John Paul II Catholic University 
-of Lublin. With nearly a year of database experience, I have a solid grasp of code and technology. 
+of Lublin. With nearly a year of software development experience, I have a solid grasp of code and technology. 
 I’ve contributed to projects like Green Energy Around Me, where I used Angular and APIs to 
 improve EV charging access, and Medical Management System, where I used Java and Spring Boot 
 to streamline healthcare workflows. I also developed Microservices Parcel Manager, a scalable 
