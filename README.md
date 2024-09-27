@@ -9,22 +9,8 @@
     <h1 align="center">Hi 👋, I'm Adrian</h1>
     <h2>Junior Java Developer | Almost 1 Year of Experience | Java, Spring Boot, Hibernate, Spring Cloud & Microservices, Angular, PLSQL | Bachelor's in Computer Science | Open to new Opportunities</h2>
 <h3 align="center">
-  I recently graduated with a Bachelor's in Computer Science from the John Paul II Catholic University 
-of Lublin. With nearly a year of software development experience, I have a solid grasp of code and technology. 
-I’ve contributed to projects like Green Energy Around Me, where I used Angular and APIs to 
-improve EV charging access, and Medical Management System, where I used Java and Spring Boot 
-to streamline healthcare workflows. I also developed Microservices Parcel Manager, a scalable 
-parcel management system that deepened my knowledge of modular design and enhanced my 
-Spring Boot, Spring Cloud, and RabbitMQ skills. I am proficient with MongoDB and use Git 
-daily for version control.
- I have always integrated backend with frontend solutions in my projects and have had exposure to 
-React. Additionally, I frequently use libraries such as Bootstrap, and I have experience working on 
-smaller projects with Angular. One notable project was the Eisenhower Task Manager, which 
-featured Firebase integration for user authentication and Angular routing.
- Currently, I am working on learning Docker to enhance my skills in containerization and cloud
-based development. I am eager to tackle new challenges and make a meaningful impact in 
-achieving company goals.
- I am a person who constantly seeks to expand my knowledge and solve complex problems.
+Combining almost 1 year of industry experience as a Software Developer with 3 years of academic project work at John Paul II Catholic University of Lublin, I have developed a versatile skill set in Java development and microservices architecture. My background includes building robust systems like the Microservices Parcel Manager using Spring Boot, Spring Cloud, and RabbitMQ, as well as creating full-stack applications like Medical System or Green Energy Around Me with Angular and third-party APIs. I thrive on delivering efficient, high-quality code that meets both technical and business requirements.
+ 
     <br>
     <br>
     🔴 This gives me confidence that what I have learned through my studies and projects, combined with my 
